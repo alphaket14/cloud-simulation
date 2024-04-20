@@ -1,7 +1,7 @@
 This is the instruction file you need to follow in order to perform the cloud simulation
 
 ## Reuirements ##
-Eclipse IDE
+Eclipse IDE and 
 JDK 1.8.0 and above
 
 
